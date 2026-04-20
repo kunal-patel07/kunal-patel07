@@ -1,5 +1,5 @@
 #🧑‍💻About Me:
-Building real-world full-stack products with a focus on performance & UX  <br>Turning business ideas into scalable web apps (React + Node + AI + Automation)  <br>
+Building real-world full-stack products with a focus on performance & UX  <br>Turning business ideas into scalable web apps (React + Node + Next Js + AI + Automation)  <br>
 
 
 ## 🌐 Socials:
